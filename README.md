@@ -1,7 +1,7 @@
-## Personal Portfolio
+## 📂 Personal Portfolio
 Welcome to my personal portfolio! This repository contains the source code for my portfolio website, showcasing my projects, skills, and professional journey.
 
-## Tech Stack
+## 🛠️ Tech Stack
 HTML5: For structure and semantic content.
 CSS3: For styling, layout, and responsiveness.
 JavaScript: For interactivity and dynamic elements.
